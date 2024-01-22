@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawad</h1>
-<h3 align="center">A passionate React Js  developer from Kashmir, Pakistan</h3>
+<h3 align="center">A passionate Mern  Stack  developer from Kashmir, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawaad81&label=Profile%20views&color=0e75b6&style=flat" alt="jawaad81" /> </p>
 
