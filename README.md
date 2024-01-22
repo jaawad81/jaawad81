@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/jawadahmed" target="blank"><img src="https://img.shields.io/twitter/follow/jawadahmed?logo=twitter&style=for-the-badge" alt="jawadahmed" /></a> </p>
 
-- 🔭 I’m currently working on [Real Estate Project](https://github.com/jaawad81/realestate)
+- 🔭 I’m currently working on [Backend of VideoMe](https://github.com/jaawad81/videome)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **React JS, Tailwind CSS**
+- 💬 Ask me about **React JS,Node JS, Tailwind CSS**
 
 - 📫 How to reach me **jaddi8959@gmail.com**
 
